@@ -1,5 +1,5 @@
 # Programm
-Für mein eigenes Ambilight Projekt habe ich Folgendes Programm Verwendet: \n
+Für mein eigenes Ambilight Projekt habe ich Folgendes Programm Verwendet:  
     [Hyperion](https://github.com/hyperion-project/hyperion.ng)
 
 # Funktion
