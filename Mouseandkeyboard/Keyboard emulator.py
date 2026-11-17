@@ -3,7 +3,7 @@ import time
 import ctypes
 from pynput import keyboard, mouse
 
-COM_PORT = 'COM9'  # <-- Deinen COM-Port eintragen
+COM_PORT = 'COM123'  # <-- Set the Port
 BAUD_RATE = 115200
 
 user32 = ctypes.windll.user32
