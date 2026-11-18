@@ -23,3 +23,6 @@ Arduino USB Kabel:
 Passe den Port im Python Script an  
 Drücke die Taste `POS1` um die Maus für den 2. PC anzuschalten  
 FERTIG
+
+# Weitere Informationen:
+Dieses Projekt wurde durch Künstliche Intelligenz unterstützt
