@@ -11,7 +11,7 @@ void setup() {
   FastLED.setBrightness(255);
   Serial.begin(BAUDRATE);
 
-  // Kurzer Start-Check: Einmal kurz blau aufblitzen lassen
+  // test
   fill_solid(leds, NUM_LEDS, CRGB::Blue);
   FastLED.show();
   delay(300);
@@ -50,12 +50,11 @@ void loop() {
         step++;
         break;
       case 5:
-        dummy = b; // Checksumme (wird hier ignoriert)
+        dummy = b;
         c = 0;
         step++;
         break;
       case 6:
-        // Einlesen der RGB-Daten
         leds[c].r = b;
         step++;
         break;
