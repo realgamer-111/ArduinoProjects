@@ -69,7 +69,7 @@ void loop() {
           FastLED.show();
           step = 0;
         } else {
-          step = 6; // fuck this shit
+          step = 6;
         }
         break;
     }
