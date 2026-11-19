@@ -8,4 +8,6 @@ Hier sammle ich meine Arduino-Projekte. Es geht ums Coden, Ausprobieren und daru
   
 - Blinker
   
-- weitere Projekte folgen
+- Keyboard/Mouse KVM-Switch
+
+- Weitere Projekte folgen
