@@ -20,7 +20,7 @@ void setup() {
 }
 
 void loop() {
-  // Adalight Protokoll Empfänger
+  // Adalight Empfänger 
   static uint8_t prefix[] = {'A', 'd', 'a'};
   static uint8_t step = 0;
   static uint16_t hi, lo, dummy;
@@ -69,7 +69,7 @@ void loop() {
           FastLED.show();
           step = 0;
         } else {
-          step = 6;
+          step = 6; // fuck this shit
         }
         break;
     }
